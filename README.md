@@ -59,7 +59,7 @@ Steps:
 # How-to-run
 
   - Step-1 Open the .py file in colab or jupyter notebook or pycharm
-  - 
+  
   - Step-2 Once open, run all the cells from the beginning.
 
   - Step-3 Finally run the **result** segment to see the results of both encoding the message in the audio file and extracting the message from the audio file.
