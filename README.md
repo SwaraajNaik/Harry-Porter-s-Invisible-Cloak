@@ -47,6 +47,34 @@ Steps:
 
 6. Generate the final augmented(magical) output to create Invisibility cloak.
 
+# Pre-requisite
+
+-   Git-Hub account
+
+-   Python 3
+
+-   pip
+
+
+# How-to-run
+
+  - Step-1 Open the .py file in colab or jupyter notebook or pycharm
+  - 
+  - Step-2 Once open, run all the cells from the beginning.
+
+  - Step-3 Finally run the **result** segment to see the results of both encoding the message in the audio file and extracting the message from the audio file.
+
+
+
+
+
+![2](https://user-images.githubusercontent.com/40821800/150410694-bf9d15f9-9c0a-4542-af83-f1f670fc1ca0.png)
+
+![3](https://user-images.githubusercontent.com/40821800/150410698-10c1f534-bfea-4338-8e27-097b3b823154.png)
+
+![4](https://user-images.githubusercontent.com/40821800/150410699-44960a70-2195-4799-b6c4-deabaf510b40.png)
+
+
 
 
  
